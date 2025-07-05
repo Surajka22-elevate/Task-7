@@ -1,0 +1,27 @@
+Task 7: Suspicious Browser Extensions - Report
+
+Browser Used: Google Chrome
+
+Extensions Reviewed:
+1. uBlock Origin – SAFE – Ad-blocker with transparent codebase.
+2. Grammarly – SAFE – Verified and widely used.
+3. PDF Converter Pro – REMOVED – Requested access to all websites and clipboard.
+4. Dark Mode Theme – REMOVED – Useless extension with suspicious permissions.
+
+Reasons for Removal:
+- Access to all web data for a simple theme = suspicious
+- Installed without user knowledge (possibly bundled with freeware)
+- Poor rating and flagged by reviewers
+
+Improvements After Cleanup:
+- Browser launched faster
+- Reduced background data usage
+
+Best Practices Learned:
+- Always check extension permissions.
+- Remove unused or outdated plugins.
+- Avoid sideloading extensions from outside Chrome Web Store.
+- Use browser profiles to test extensions safely.
+
+Conclusion:
+Managing browser extensions is crucial for security and privacy. Suspicious extensions can act like spyware or malware. Regular audits help maintain a secure environment.
